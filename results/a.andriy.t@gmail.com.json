@@ -1,0 +1,10 @@
+{
+  "email": "a.andriy.t@gmail.com",
+  "name": "Цинцар Андрій",
+  "started_at": "2026-11-15T18:47:46",
+  "topics": [
+    "Векторні представлення слів (Word2Vec, GloVe, FastText)",
+    "LLM-агенти та tool calling"
+  ],
+  "status": "started"
+}
